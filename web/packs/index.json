@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "PrinceOftheUniverse.json"
+  ],
+  "homeserver_url": "https://matrix.chagle.de"
+}
